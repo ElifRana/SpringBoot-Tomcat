@@ -2,11 +2,11 @@
 
 pom.xml:
 
-<packaging>war</packaging>
+* <packaging>war</packaging>
  
-<dependency>
-  <groupId>org.springframework.boot</groupId>
-  <artifactId>spring-boot-starter-tomcat</artifactId>
-  <scope>provided</scope>
-</dependency>
+* <dependency>
+*   <groupId>org.springframework.boot</groupId>
+*   <artifactId>spring-boot-starter-tomcat</artifactId>
+*   <scope>provided</scope>
+* </dependency>
 
